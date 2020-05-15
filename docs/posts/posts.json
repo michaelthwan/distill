@@ -1,0 +1,32 @@
+[
+  {
+    "path": "posts/2020-05-16-hello-new-blog-post/",
+    "title": "Hello new blog post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-05-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-16T01:07:48+08:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-05-15",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-15T22:58:34+08:00"
+  }
+]
